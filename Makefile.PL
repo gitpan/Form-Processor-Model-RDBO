@@ -4,7 +4,8 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME                => 'Form::Processor::Model::RDBO',
-    AUTHOR              => 'Viacheslav Tikhanovskii <viacheslav.t@gmail.com>',
+    AUTHOR              => 'Viacheslav Tikhanovskii <viacheslav.t@gmail.com>, 
+                            Dmitry Zhariy <dzhariy@cpan.org>',
     VERSION_FROM        => 'lib/Form/Processor/Model/RDBO.pm',
     ABSTRACT_FROM       => 'lib/Form/Processor/Model/RDBO.pm',
     ($ExtUtils::MakeMaker::VERSION >= 6.3002

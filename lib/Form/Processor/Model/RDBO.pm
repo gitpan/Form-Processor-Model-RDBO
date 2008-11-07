@@ -4,7 +4,7 @@ use warnings;
 use base 'Form::Processor';
 require UNIVERSAL::require;
 
-our $VERSION = '0.01';
+our $VERSION = '0.001';
 
 =head1 NAME
 
@@ -401,8 +401,7 @@ sub primary_key {
 
 =head1 AUTHORS
 
-vti L<http://search.cpan.org/~vti>, 
-dzhariy { dzhariy @ cpan.org }
+vti, dzhariy 
 
 =head1 CONTRIBUTORS
 

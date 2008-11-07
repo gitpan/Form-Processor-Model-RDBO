@@ -1,16 +1,17 @@
 --- #YAML:1.0
 name:                Form-Processor-Model-RDBO
-version:             0.01
+version:             0.001
 abstract:            Model class for Form Processor using
 license:             perl
-author:              
-    - Viacheslav Tikhanovskii <viacheslav.t@gmail.com>
-generated_by:        ExtUtils::MakeMaker version 6.42
+generated_by:        ExtUtils::MakeMaker version 6.3201
 distribution_type:   module
 requires:     
     Form::Processor:               0
     Rose::DB::Object:              0.774
     Test::More:                    0
 meta-spec:
-    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
-    version: 1.3
+    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
+    version: 1.2
+author:
+    - Viacheslav Tikhanovskii <viacheslav.t@gmail.com>, 
+                            Dmitry Zhariy <dzhariy@cpan.org>
